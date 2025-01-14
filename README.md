@@ -1,4 +1,4 @@
-<h1 align="center"> 🗣 Subject &nbsp;&nbsp;&nbsp;&nbsp;Time-based one-time password</h1>
+<h1 align="center"> 🗣 Subject &nbsp;&nbsp;&nbsp;&nbsp;Time-Based One-Time Password</h1>
 
 <br>
 
